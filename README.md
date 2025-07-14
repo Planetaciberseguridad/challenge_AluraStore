@@ -1,3 +1,5 @@
+El objetivo es analizar el desempeño de las tiendas ver sus ventas, graficar sus datos y analizar que tienda es la menos fuerte e implementar estrategias para mejorar sus ventas.
+
 # challenge_AluraStore
 5.1
 5.1.1
